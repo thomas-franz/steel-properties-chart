@@ -1,0 +1,190 @@
+[
+  {
+    "name": "ANSI 8670",
+    "properties": { "Edge Retention": 260, "Corrosion Resistance": 129, "Toughness": 980 }
+  },
+  {
+    "name": "ANSI 5160",
+    "properties": { "Edge Retention": 270, "Corrosion Resistance": 49, "Toughness": 898 }
+  },
+  {
+    "name": "H1",
+    "properties": { "Edge Retention": 270, "Corrosion Resistance": 1000, "Toughness": 498 }
+  },
+  {
+    "name": "AISI O1",
+    "properties": { "Edge Retention": 280, "Corrosion Resistance": 49, "Toughness": 298 }
+  },
+  {
+    "name": "AISI L6",
+    "properties": { "Edge Retention": 280, "Corrosion Resistance": 48, "Toughness": 898 }
+  },
+  {
+    "name": "80CrV2",
+    "properties": { "Edge Retention": 280, "Corrosion Resistance": 66, "Toughness": 582 }
+  },
+  {
+    "name": "Blue 1 Steel",
+    "properties": { "Edge Retention": 308, "Corrosion Resistance": 49, "Toughness": 222 }
+  },
+  {
+    "name": "8Cr13MoV / AUS 8",
+    "properties": { "Edge Retention": 308, "Corrosion Resistance": 731, "Toughness": 280 }
+  },
+  {
+    "name": "AISI 1095",
+    "properties": { "Edge Retention": 318, "Corrosion Resistance": 50, "Toughness": 200 }
+  },
+  {
+    "name": "V-Toku2",
+    "properties": { "Edge Retention": 318, "Corrosion Resistance": 50, "Toughness": 221 }
+  },
+  {
+    "name": "420HC",
+    "properties": { "Edge Retention": 318, "Corrosion Resistance": 822, "Toughness": 498 }
+  },
+  {
+    "name": "52100",
+    "properties": { "Edge Retention": 328, "Corrosion Resistance": 50, "Toughness": 500 }
+  },
+  {
+    "name": "Super Blue Steel",
+    "properties": { "Edge Retention": 339, "Corrosion Resistance": 50, "Toughness": 59 }
+  },
+  {
+    "name": "AISI A-2",
+    "properties": { "Edge Retention": 347, "Corrosion Resistance": 70, "Toughness": 200 }
+  },
+  {
+    "name": "Nitro-V (NJSB)",
+    "properties": { "Edge Retention": 357, "Corrosion Resistance": 731, "Toughness": 381 }
+  },
+  {
+    "name": "LC200N / Bohler N360",
+    "properties": { "Edge Retention": 378, "Corrosion Resistance": 1000, "Toughness": 600 }
+  },
+  {
+    "name": "AEB-L",
+    "properties": { "Edge Retention": 399, "Corrosion Resistance": 709, "Toughness": 638 }
+  },
+  {
+    "name": "CTS BD1N",
+    "properties": { "Edge Retention": 410, "Corrosion Resistance": 849, "Toughness": 428 }
+  },
+  {
+    "name": "Alleima 14c28n (Mora)",
+    "properties": { "Edge Retention": 417, "Corrosion Resistance": 842, "Toughness": 600 }
+  },
+  {
+    "name": "440C (real)",
+    "properties": { "Edge Retention": 439, "Corrosion Resistance": 750, "Toughness": 119 }
+  },
+  {
+    "name": "ApexUltra",
+    "properties": { "Edge Retention": 449, "Corrosion Resistance": 50, "Toughness": 139 }
+  },
+  {
+    "name": "CPM 3V",
+    "properties": { "Edge Retention": 459, "Corrosion Resistance": 559, "Toughness": 760 }
+  },
+  {
+    "name": "VG10 / N690",
+    "properties": { "Edge Retention": 470, "Corrosion Resistance": 757, "Toughness": 120 }
+  },
+  {
+    "name": "CPM-154 / RWL34",
+    "properties": { "Edge Retention": 480, "Corrosion Resistance": 718, "Toughness": 141 }
+  },
+  {
+    "name": "154CM",
+    "properties": { "Edge Retention": 480, "Corrosion Resistance": 718, "Toughness": 110 }
+  },
+  {
+    "name": "AISI D2",
+    "properties": { "Edge Retention": 487, "Corrosion Resistance": 450, "Toughness": 140 }
+  },
+  {
+    "name": "Super Gold 2",
+    "properties": { "Edge Retention": 488, "Corrosion Resistance": 710, "Toughness": 409 }
+  },
+  {
+    "name": "Magnacut",
+    "properties": { "Edge Retention": 518, "Corrosion Resistance": 882, "Toughness": 319 }
+  },
+  {
+    "name": "CPM 4V",
+    "properties": { "Edge Retention": 530, "Corrosion Resistance": 147, "Toughness": 322 }
+  },
+  {
+    "name": "CPM-Cru-Wear",
+    "properties": { "Edge Retention": 530, "Corrosion Resistance": 147, "Toughness": 400 }
+  },
+  {
+    "name": "CPM S30V / CTS-BD30P",
+    "properties": { "Edge Retention": 530, "Corrosion Resistance": 758, "Toughness": 139 }
+  },
+  {
+    "name": "Vanax",
+    "properties": { "Edge Retention": 539, "Corrosion Resistance": 998, "Toughness": 221 }
+  },
+  {
+    "name": "CPM S45VN",
+    "properties": { "Edge Retention": 557, "Corrosion Resistance": 842, "Toughness": 119 }
+  },
+  {
+    "name": "Elmax",
+    "properties": { "Edge Retention": 557, "Corrosion Resistance": 783, "Toughness": 178 }
+  },
+  {
+    "name": "CPM M4",
+    "properties": { "Edge Retention": 567, "Corrosion Resistance": 91, "Toughness": 281 }
+  },
+  {
+    "name": "CTS-XHP",
+    "properties": { "Edge Retention": 567, "Corrosion Resistance": 639, "Toughness": 182 }
+  },
+  {
+    "name": "HAP 40 / REX 76 / REX 45",
+    "properties": { "Edge Retention": 609, "Corrosion Resistance": 89, "Toughness": 101 }
+  },
+  {
+    "name": "20CV / M390 / 204P",
+    "properties": { "Edge Retention": 617, "Corrosion Resistance": 860, "Toughness": 80 }
+  },
+  {
+    "name": "CPM S60V",
+    "properties": { "Edge Retention": 659, "Corrosion Resistance": 700, "Toughness": 101 }
+  },
+  {
+    "name": "ZDP-189 / Cowry X",
+    "properties": { "Edge Retention": 719, "Corrosion Resistance": 488, "Toughness": 80 }
+  },
+  {
+    "name": "CPM S110V",
+    "properties": { "Edge Retention": 740, "Corrosion Resistance": 818, "Toughness": 80 }
+  },
+  {
+    "name": "CPM 10V",
+    "properties": { "Edge Retention": 758, "Corrosion Resistance": 70, "Toughness": 119 }
+  },
+  {
+    "name": "CPM-S90V / CTS 20CP",
+    "properties": { "Edge Retention": 779, "Corrosion Resistance": 740, "Toughness": 120 }
+  },
+  {
+    "name": "CPM S125V",
+    "properties": { "Edge Retention": 826, "Corrosion Resistance": 742, "Toughness": 59 }
+  },
+  {
+    "name": "CPM 15V",
+    "properties": { "Edge Retention": 877, "Corrosion Resistance": 70, "Toughness": 81 }
+  },
+  {
+    "name": "CTS Maxamet",
+    "properties": { "Edge Retention": 1049, "Corrosion Resistance": 91, "Toughness": 59 }
+  },
+  {
+    "name": "CPM Rex 121",
+    "properties": { "Edge Retention": 1147, "Corrosion Resistance": 52, "Toughness": 39 }
+  }
+]
