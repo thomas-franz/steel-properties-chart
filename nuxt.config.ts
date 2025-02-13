@@ -16,6 +16,6 @@ export default defineNuxtConfig({
   compatibilityDate: '2025-01-09',
   ssr: false,
   app: {
-    baseURL: isProd ? '/wv-bb' : '',
+    baseURL: isProd ? '/steel-properties-chart/' : '',
   },
 });
